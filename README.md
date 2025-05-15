@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @S-iba
-- 👀 I’m interested in Object Oriented Programming and Software development (Web or applications)
+- 👋 Hi, I’m (@S-iba) Sibabalwe Klaas. 
+- 👀 I’m interested in Software development (Web or applications), IoT and Machine learning. 
 - 🌱 I’m currently learning Software Developmet at UWC (Samsung Future Innovation Lab) ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me klaas.siba42@gmail.com
