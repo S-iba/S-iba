@@ -1,10 +1,33 @@
-- 👋 Hi, I’m (@S-iba) Sibabalwe Klaas. 
-- 👀 I’m interested in Software development (Web or applications), IoT and Machine learning. 
-- 🌱 I’m currently a Software Developer intern at UWC (Samsung Future Innovation Lab) ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me klaas.siba42@gmail.com
+# Hi there, I'm a Junior Full-Stack .NET Engineer 👋
 
-<!---
-S-iba/S-iba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I am a full-stack developer, I love building scalable applications, designing efficient database schemas, and bridging the gap between software and the physical world through IoT.
+
+## 👨‍💻 About Me
+*   🌱 I’m passionate about full-stack .NET development, from **.NET MAUI** mobile apps to **ASP.NET Web APIs**.
+*   ⚡ **Fun fact:** When I'm not coding, you can find me playing the keyboard (experimenting with synth sound design), running local LLMs, or playing retro and mobile RPGs. 
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+*   C# | Python | Java | Matlab
+*   .NET | ASP.NET Web API 
+*   Blazor WebAssembly | .NET MAUI
+*   Entity Framework Core
+
+**Architecture & Databases:**
+*   SQL Server | PostgreSQL | SQLite
+*   MassTransit (Asynchronous messaging pipelines)
+*   *Focus:* Database optimization.
+
+**Hardware, IoT & Networking:**
+*   ESP32 | Raspberry Pi | nanoFramework
+*   Node-RED | MQTT Brokers | RabbitMQ
+
+**AI & Workflow:**
+*   LM Studio | Ollama | Foundry
+
+## 📫 Let's Connect!
+<!-- Add your actual links inside the parentheses below -->
+*   [LinkedIn] www.linkedin.com/in/sibabalwe-klaas
+*   [Portfolio](Coming Soon...)
+*   **Email:** [klaas.siba42@gmail.com]
