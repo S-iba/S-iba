@@ -1,12 +1,12 @@
-# Hi there, I'm a Junior Full-Stack .NET Engineer 👋
+# Hi there, I'm a Junior Full-Stack .NET Engineer 
 
 Welcome to my GitHub! I am a full-stack developer, I love building scalable applications, designing efficient database schemas, and bridging the gap between software and the physical world through IoT.
 
-## 👨‍💻 About Me
-*   🌱 I’m passionate about full-stack .NET development, from **.NET MAUI** mobile apps to **ASP.NET Web APIs**.
-*   ⚡ **Fun fact:** When I'm not coding, you can find me playing the keyboard (experimenting with synth sound design), running local LLMs, or playing retro and mobile RPGs. 
+## About Me
+*   I’m passionate about full-stack .NET development, from **.NET MAUI** mobile apps to **ASP.NET Web APIs**.
+*   **Fun fact:** When I'm not coding, you can find me playing the keyboard (experimenting with synth sound design), running local LLMs, or playing retro and mobile RPGs. 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages & Frameworks:**
 *   C# | Python | Java | Matlab
@@ -26,7 +26,7 @@ Welcome to my GitHub! I am a full-stack developer, I love building scalable appl
 **AI & Workflow:**
 *   LM Studio | Ollama | Foundry
 
-## 📫 Let's Connect!
+## Let's Connect!
 <!-- Add your actual links inside the parentheses below -->
 *   [LinkedIn] www.linkedin.com/in/sibabalwe-klaas
 *   [Portfolio](Coming Soon...)
